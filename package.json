@@ -1,0 +1,27 @@
+{
+  "name": "jsd",
+  "version": "0.9.0",
+  "description": "JavaScript Dynamic is template engine for JavaScript, HTML, CSS, and other. Can be used as Node.js module or as part of browser application (single page application)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsmogura/jsd.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "html",
+    "template",
+    "framework",
+    "dynamic"
+  ],
+  "author": "Radek Smogura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsmogura/jsd/issues"
+  },
+  "homepage": "https://github.com/rsmogura/jsd#readme"
+}
